@@ -1,0 +1,18 @@
+.thumbnail {
+  font-size: xx-large;
+  text-decoration: underline;
+  margin-left: 2rem;
+  margin-bottom: 16rem;
+}
+
+.Publish {
+  margin-left: 83rem;
+  background-color: rgb(32, 164, 32);
+  color: white;
+  padding: 0.5rem;
+  border-radius: 5px;
+}
+
+.window {
+  margin-bottom: 6rem;
+}

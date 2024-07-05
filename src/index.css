@@ -1,0 +1,15 @@
+.imageB {
+  display: flex;
+  align-items: center;
+  border: 1px dotted black;
+  max-width: fit-content;
+}
+
+.image-display-before {
+  margin-left: 3rem;
+}
+
+.image-display-after {
+  height: 100px;
+  width: 100px;
+}
